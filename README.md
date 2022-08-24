@@ -1,1 +1,1 @@
-# algos
+# questions/exercices from courses or interviews I resolve over time from 2022
